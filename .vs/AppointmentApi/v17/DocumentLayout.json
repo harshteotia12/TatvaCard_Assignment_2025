@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\D-DriveBckUp\\HARSH_CODES\\TC_Assignment\\BackEnd\\AppointmentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952A75D8-335F-4C34-A138-B5947C651ABA}|AppointmentApi\\AppointmentApi.csproj|c:\\users\\harsh\\onedrive\\desktop\\d-drivebckup\\harsh_codes\\tc_assignment\\backend\\appointmentapi\\appointmentapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952A75D8-335F-4C34-A138-B5947C651ABA}|AppointmentApi\\AppointmentApi.csproj|solutionrelative:appointmentapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952A75D8-335F-4C34-A138-B5947C651ABA}|AppointmentApi\\AppointmentApi.csproj|c:\\users\\harsh\\onedrive\\desktop\\d-drivebckup\\harsh_codes\\tc_assignment\\backend\\appointmentapi\\appointmentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{952A75D8-335F-4C34-A138-B5947C651ABA}|AppointmentApi\\AppointmentApi.csproj|solutionrelative:appointmentapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\D-DriveBckUp\\HARSH_CODES\\TC_Assignment\\BackEnd\\AppointmentApi\\AppointmentApi\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "AppointmentApi\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\D-DriveBckUp\\HARSH_CODES\\TC_Assignment\\BackEnd\\AppointmentApi\\AppointmentApi\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "AppointmentApi\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:27:30.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\D-DriveBckUp\\HARSH_CODES\\TC_Assignment\\BackEnd\\AppointmentApi\\AppointmentApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AppointmentApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\D-DriveBckUp\\HARSH_CODES\\TC_Assignment\\BackEnd\\AppointmentApi\\AppointmentApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AppointmentApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T16:36:59.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
