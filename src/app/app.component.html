@@ -1,0 +1,25 @@
+<div class="app-shell">
+    <nav class="top-bar surface" aria-label="Main navigation">
+        <div class="brand">
+            <mat-icon fontIcon="event_available" aria-hidden="true"></mat-icon>
+            <h1 class="brand-title">{{title}}</h1>
+        </div>
+        <div class="top-actions">
+            <app-theme-toggle></app-theme-toggle>
+        </div>
+    </nav>
+    <main class="main-grid">
+        <div class="col left-col">
+            <app-appointment-form [loading]="loading" [error]="error" [appointments]="appointments()"
+                [editingAppointment]="editing()" [saveVersion]="saveVersion()"
+                (save)="onSave($event)"></app-appointment-form>
+        </div>
+        <div class="col right-col">
+            <app-appointment-list [appointments]="appointments()" [activeId]="editing()?.id || null"
+                (edit)="onEdit($event)" (remove)="onDelete($event)"></app-appointment-list>
+        </div>
+    </main>
+    <footer class="footer" aria-label="Footer">
+        <small>&copy; {{ year }} Clinic Scheduling • <span class="u-underline">Improved UX</span></small>
+    </footer>
+</div>
